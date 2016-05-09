@@ -23,15 +23,15 @@ menu:
 
 links:
   - title: Freemind
-    url: https://github.com/wzpan/freemind/
+    url: https://github.com/Loki58/freemind/
     intro: "Freemind's Github repository."
     icon: "fa fa-github"
   - title: "My Github"
-    url: http://www.github.com/wzpan
+    url: http://www.github.com/Loki58
     intro: "My Github account."
     icon: "fa fa-github"
   - title: "My LinkedIn"
-    url: http://www.linkedin.com/in/hahack
+    url: http://www.linkedin.com/
     intro: "My Linkin account."
     icon: "fa fa-linkedin"
 
